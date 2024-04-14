@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Last Updated:** 2023-04-14
+
 This Privacy Policy outlines how Addable AB  (“we”, “us”, or “our”) collects, uses, and protects your information when you use AI Assistant for Jira ("App").
 By using our App, you consent to the data practices described in this policy.
 
