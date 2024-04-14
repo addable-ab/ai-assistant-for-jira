@@ -32,14 +32,14 @@ When child issue generation is enabled, the AI Assistant will generate child iss
 
 For each refined issue, the AI Assistant for Jira will also update the issues' comments with a justification of the improvements made.
 
-![Create issue](aia-create-issue-summary.png "Create issue")
-![Improvements](aia-issue-improved-summary-and-description.png "Improved summary and description")
-![Child issues](aia-issue-improved-child-issues.png "Generated child issues")
-![Comment](aia-issue-improved-comment.png "Comment")
+- ![Create issue](aia-create-issue-summary.png "Create issue")
+- ![Improvements](aia-issue-improved-summary-and-description.png "Improved summary and description")
+- ![Child issues](aia-issue-improved-child-issues.png "Generated child issues")
+- ![Comment](aia-issue-improved-comment.png "Comment")
 
 If your Project settings and your Personal Jira Settings allow for notifications of issue changes, you will be notified via email when the AI Assistant updates an issue. This email will contain information about the specific change made, i.e. the original and updated summary or description, as well as the comment justifying the update.
 
-> You can read more about setting up email notifications in Jira on the following Atlassian Support pages: (https://support.atlassian.com/jira-cloud-administration/docs/configure-email-notifications/)[Configure email notifications] and (https://support.atlassian.com/jira-software-cloud/docs/manage-your-jira-personal-settings/)[Manage your Jira personal settings].
+> You can read more about setting up email notifications in Jira on the following Atlassian Support pages: [Configure email notifications](https://support.atlassian.com/jira-cloud-administration/docs/configure-email-notifications/) and [Manage your Jira personal settings](https://support.atlassian.com/jira-software-cloud/docs/manage-your-jira-personal-settings/).
 
 ![Notification email](aia-email-notification-wide.png "Notification email")
 
