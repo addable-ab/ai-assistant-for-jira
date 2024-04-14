@@ -10,7 +10,7 @@ AI Assistant for Jira provides automated assistance and integration services for
 
 ### a. Eligibility
 
-You must be at least 18 years old to use AI Assistant for Jira. By agreeing to these Terms, you represent and warrant that you are of legal age to form a binding contract with Addable AB.
+By agreeing to these Terms, you represent and warrant that you are of legal age to form a binding contract with Addable AB.
 
 ### b. License
 
